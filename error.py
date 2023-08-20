@@ -294,8 +294,7 @@ def rcrack(uid,pwx,tl):
             'x-fb-rev': '1008154106',
             'x-fb-debug': 'cDfGPi/5GUsIXMg9QnjA/YNnKMyznRd09SWfqY9nJOPmNYmn6QzCYE+fab3Q8DTBh0pEFqwYA0H1aPkSppF9Ug==	',
             'alt-svc': 'h3=":443"; ma=86400'
-            
-			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
 			'accept-language': 'en-US,en;q=0.9',
 			'cache-control': 'max-age=0',
 			'dpr': '3',
